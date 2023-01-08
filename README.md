@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm San Linn Htet (David AlaSThan)</h1>
+<h1 align="center">Hi 👋, I'm San Linn Htet (David AlasThan)</h1>
 <h3 align="center">Web Developer</h3>
 
 <p align="left"> <a href="https://twitter.com/david_alasthan" target="blank"><img src="https://img.shields.io/twitter/follow/david_alasthan?logo=twitter&style=for-the-badge" alt="david_alasthan" /></a> </p>
